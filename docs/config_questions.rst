@@ -101,6 +101,7 @@ On Active Directory, extensibleObject is not known. You can use for example:
 
    $answer_attribute = "comment";
    $answer_objectClass = "user";
+   $multiple_answers_one_str = true; //comment attribue does not allow multiple value, put it in one string.
 
 Crypt answers
 -------------
