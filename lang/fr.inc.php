@@ -73,7 +73,7 @@ $messages['passwordrequired'] = "Vous devez indiquer votre mot de passe";
 $messages['answermoderror'] = "Votre réponse n'a pas été enregistrée";
 $messages['answerchanged'] = "Votre réponse a été enregistrée";
 $messages['answernomatch'] = "Votre réponse est incorrecte";
-$messages['resetbyquestionshelp'] = "Choisissez une question et répondez-y pour réinitialiser pour votre mot de passe. Vous devez avoir au préalable <a href=\"?action=setquestions\">enregistré une réponse</a>.";
+$messages['resetbyquestionshelp'] = "Choisissez une question et répondez-y pour réinitialiser pour votre mot de passe. Vous devez avoir au préalable <a href=\"?action=setquestions\">enregistrer une réponse</a>.";
 $messages['changehelp'] = "Entrez votre ancien mot de passe et choisissez-en un nouveau.";
 $messages['changehelpreset'] = "Mot de passe oublié ?";
 $messages['changehelpquestions'] = "<a href=\"?action=resetbyquestions\">Réinitialisez votre mot de passe en répondant à des questions</a>";
